@@ -1,4 +1,3 @@
-import java.util.Currency;
 
 public class PremiumProduct extends Product {
 

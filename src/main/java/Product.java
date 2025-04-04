@@ -1,4 +1,3 @@
-import java.util.Currency;
 
 abstract public class Product {
  protected String name;
